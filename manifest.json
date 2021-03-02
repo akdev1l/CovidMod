@@ -1,0 +1,10 @@
+{
+  "Name": "CovidMod",
+  "Author": "akdev",
+  "Version": "1.0.0",
+  "Description": "Random chance of getting covid when approaching other players and NPCs",
+  "UniqueID": "xyz.akdev.covidmod",
+  "EntryDll": "CovidMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
